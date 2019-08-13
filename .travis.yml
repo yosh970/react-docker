@@ -1,0 +1,7 @@
+language: generic
+sudo: required
+services:
+  - docker
+
+script:
+  - docker run -e CI=true yosh970/react-docker npm run test
