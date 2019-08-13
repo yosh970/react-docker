@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          CI/CD with travisCI and AWS
         </a>
       </header>
     </div>
